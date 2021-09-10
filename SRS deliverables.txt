@@ -1,0 +1,5 @@
+- context-level (Level 0 ) Data Flow Diagram (DFD) ( Figure 2.7 )
+- refine DFD to Level 1 ( whatever the f*** that means. ) ( Figure 3.4 )
+- a class diagram OR an Entity Relationship Diagram (ERD) ( Figure 2.8 )
+- use case diagram ( Figure 2.6 & 2.2 ) - at least two scenarios for the system
+- state diagram ( Figure 3.5 )
